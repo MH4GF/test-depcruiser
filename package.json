@@ -1,0 +1,10 @@
+{
+  "name": "test-depcruiser",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "MH4GF <h.miyagi.cnw@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "dependency-cruiser": "*"
+  }
+}
